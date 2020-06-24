@@ -26,7 +26,7 @@ These are the base requirements to build and use Google Test:
 You can build The project using CMake as following:
 
 $ cmake -Bbuild -H.  
-$ cd build
+$ cd build  
 $ make  
 
 ## Running the tests
